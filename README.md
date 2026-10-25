@@ -23,7 +23,7 @@
 ```typescript
 const mohanaaswath: Developer = {
   name:      "MOHANAASWATH  M",
-  role:      "Frontend or full-stack engineer",
+  role:      "AI Powered Full-Stack Developer",
   location:  "Hosur , Tamil Nadu",
   currently: "building in public",
   stack:     ["Jupyter Notebook", "TypeScript", "JavaScript", "PLpgSQL", "CSS", "HTML"],
