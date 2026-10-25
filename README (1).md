@@ -131,7 +131,6 @@ A featured build from this profile.
 
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mohanaaswath&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=mohanaaswath&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F199800555%3Fu%3De5ce9f1b078ec4c6a4a5728f22af5be629837428%26v%3D4" alt="mohanaaswath heatmap visual" />
